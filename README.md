@@ -1,6 +1,6 @@
 Header
 
-## I'm a beginner programmer
+## Hi, I am Akbota, a developer from Kazakhstan
 
 ### Languages and Tools
 

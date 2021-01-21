@@ -12,6 +12,4 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akbotaS)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=krakenkro&theme=buefy&&count_private=true&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krakenkro&layout=compact)
